@@ -1,0 +1,21 @@
+[
+  {
+    "name":"Some name",
+    "age":23,
+    "city":"Bangalore"
+  },
+
+    {
+      "name":"Some other name",
+      "age":23,
+      "city":"Bangalore"
+    },
+
+      {
+        "name":"Some name 2",
+        "age":23,
+        "city":"Bangalore"
+      }
+
+  
+]
